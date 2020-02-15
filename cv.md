@@ -1,8 +1,8 @@
-Temirlan, Kalimzhanov.
+# Temirlan, Kalimzhanov.
 
-**phone:** +7 702 770 89 29 , **e-mail:** temirlan.kalimzhanov@nu.edu.kz , telegram: Tima_Kalim .
+**phone:** +7 702 770 89 29 , **e-mail:** temirlan.kalimzhanov@nu.edu.kz , **telegram:** @Tima_Kalim .
 
-I am interested in IT, coding, computer engineering. 
+**About me** I am interested in IT, coding, computer engineering. I was a trainee in the IT company Sapa software, also a trainee in the IT Advisory Department at KPMG Nursultan.
 
 **Skills:** Go, Python, C++, Matlab, Arduino,  .
 
